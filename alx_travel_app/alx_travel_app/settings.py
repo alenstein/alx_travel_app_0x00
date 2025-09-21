@@ -48,7 +48,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'drf_yasg',
     'rest_framework',
-    'alx_travel_app.listings',
+    'listings',
     'corsheaders',
 ]
 
